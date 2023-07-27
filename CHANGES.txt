@@ -1,0 +1,6 @@
+commit 2627045ffd55c26c8795800749d313d419c00f3c
+Author: Tommy Bair <tommy.bair@covergetechs.com>
+Date:   Wed May 10 20:43:10 2023 -0400
+
+    Changes location of C-stick header
+    Changes C-stick header pitch to 2.54 mm (100 mil)
